@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "green-your-look"
+		},
+		{
+			"path": "green_your_look_vue"
+		}
+	],
+	"settings": {
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true,
+		"editor.insertSpaces": false
+	}
+}
