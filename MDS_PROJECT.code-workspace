@@ -4,7 +4,10 @@
 			"path": "green-your-look"
 		},
 		{
-			"path": "green_your_look_vue"
+			"path": "green-your-look-vue"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {
