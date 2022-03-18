@@ -13,6 +13,21 @@
 	"settings": {
 		"editor.formatOnPaste": true,
 		"editor.formatOnSave": true,
-		"editor.insertSpaces": false
+		"editor.insertSpaces": false,
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MariaDB",
+				"name": "MY_digital project",
+				"database": "greenYourLook",
+				"username": "greenYourLook",
+				"password": "mydigitalproject2022"
+			}
+		]
 	}
 }
